@@ -1,0 +1,185 @@
+Hash,File,Operator,Start,End,StartLine,EndLine,Original,Replacement,Status,Time(ms)
+m67304341,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,AOR,3243,3247,75,75," -= "," += ",killed,1677
+m7da1edd4,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,AOR,3243,3247,75,75," -= ","  = ",killed,1634
+mb18ff0e8,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,AOR,3243,3247,75,75," -= "," /= ",killed,1597
+m1151e9ef,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,AOR,3243,3247,75,75," -= "," *= ",killed,1515
+m195ee8f3,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,AOR,3243,3247,75,75," -= "," %= ",live,907
+me1dbd1d3,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2461,2465,60,60," <= ","  < ",killed,902
+m1fc33dc4,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2461,2465,60,60," <= ","  > ",killed,1507
+mb4feb710,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2461,2465,60,60," <= "," >= ",killed,1572
+m5c7e0512,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2461,2465,60,60," <= "," != ",killed,1511
+m97e4427b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2461,2465,60,60," <= "," == ",live,906
+m00579d0d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2511,2514,61,61," < "," <= ",killed,1500
+mc4755ad5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2511,2514,61,61," < "," >=  ",killed,1690
+m13bc3225,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2511,2514,61,61," < "," > ",killed,1523
+mdd2dc57a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2511,2514,61,61," < "," != ",killed,1529
+m6a2fddab,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2511,2514,61,61," < "," == ",killed,1594
+mc9452903,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2621,2624,63,63," / "," + ",killed,1576
+mb178a831,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2621,2624,63,63," / "," - ",killed,1515
+m1910171d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2621,2624,63,63," / "," * ",killed,1505
+m837a5ddd,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2621,2624,63,63," / "," ** ",killed,1517
+ma66fc0f8,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2621,2624,63,63," / "," % ",killed,1686
+m1b217f78,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2596,2599,63,63," * "," + ",killed,1783
+m14150b86,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2596,2599,63,63," * "," - ",killed,1511
+m7b263557,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2596,2599,63,63," * "," / ",killed,1744
+m5294e184,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2596,2599,63,63," * "," ** ",killed,1573
+m4e9be0da,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2596,2599,63,63," * "," % ",killed,1691
+m61618168,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2664,2668,65,65," == "," <= ",killed,1781
+mfaefaa73,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2664,2668,65,65," == "," >= ",killed,1571
+m922d7293,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2664,2668,65,65," == ","  < ",killed,1738
+m749de71a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2664,2668,65,65," == ","  > ",killed,1684
+m1b1a9609,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2664,2668,65,65," == "," != ",killed,1738
+mf9f11118,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2811,2815,67,67," <= ","  < ",live,904
+m8365cbf6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2811,2815,67,67," <= ","  > ",killed,1547
+m911e5add,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2811,2815,67,67," <= "," >= ",killed,1506
+mc34d962a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2811,2815,67,67," <= "," != ",killed,1511
+m398c3f61,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2811,2815,67,67," <= "," == ",killed,905
+m0da3f66d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2797,2800,67,67," + "," - ",killed,1575
+m763a0650,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2797,2800,67,67," + "," * ",live,910
+mbe2ab152,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2797,2800,67,67," + "," / ",killed,1545
+m1a091fe5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2797,2800,67,67," + "," ** ",killed,1535
+m6c01f4a7,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,2797,2800,67,67," + "," % ",killed,1542
+mfd97253e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3020,3023,72,72," > "," >=  ",live,925
+m89a88cb0,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3020,3023,72,72," > "," <=  ",killed,1527
+m8dc7dfd6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3020,3023,72,72," > "," < ",killed,1602
+mf7c07de1,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3020,3023,72,72," > "," != ",live,920
+m15f0e200,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3020,3023,72,72," > "," == ",killed,1502
+me5bbcbe6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3082,3085,73,73," > "," >=  ",live,918
+md98e53d2,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3082,3085,73,73," > "," <=  ",killed,1496
+m2570b042,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3082,3085,73,73," > "," < ",killed,1665
+m760bd637,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3082,3085,73,73," > "," != ",killed,1542
+mc378985a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3082,3085,73,73," > "," == ",killed,1572
+m662c0805,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3307,3310,78,78," > "," >=  ",live,1007
+mac4ab001,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3307,3310,78,78," > "," <=  ",killed,1789
+maa61d633,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3307,3310,78,78," > "," < ",killed,1708
+mbf5b051e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3307,3310,78,78," > "," != ",live,902
+mb8e6314f,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3307,3310,78,78," > "," == ",killed,1790
+md919fee6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3362,3365,79,79," > "," >=  ",killed,904
+md9f01b48,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3362,3365,79,79," > "," <=  ",killed,1529
+m94151702,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3362,3365,79,79," > "," < ",killed,1533
+m885d85d6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3362,3365,79,79," > "," != ",killed,1536
+mc24c5324,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3362,3365,79,79," > "," == ",killed,1539
+mb8ad052f,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3348,3351,79,79," + "," - ",killed,1498
+m79f58a7b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3348,3351,79,79," + "," * ",killed,1532
+m20e6d6e8,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3348,3351,79,79," + "," / ",killed,1598
+m75289ef6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3348,3351,79,79," + "," ** ",killed,1710
+mfd0a2b96,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,3348,3351,79,79," + "," % ",killed,1628
+me69780e6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4014,4017,98,98," > "," >=  ",killed,1582
+m7c6a2c9c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4014,4017,98,98," > "," <=  ",killed,1726
+m72121a03,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4014,4017,98,98," > "," < ",killed,1540
+md84aa1d9,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4014,4017,98,98," > "," != ",live,904
+me78d6f44,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4014,4017,98,98," > "," == ",killed,1747
+m7cae585e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4137,4140,101,101," / "," + ",killed,1603
+m3398fbbe,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4137,4140,101,101," / "," - ",killed,1608
+mb1a37471,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4137,4140,101,101," / "," * ",killed,1543
+m28c6d294,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4137,4140,101,101," / "," ** ",killed,1591
+m8e5d340d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4137,4140,101,101," / "," % ",killed,1543
+m578b5751,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4115,4118,101,101," * "," + ",killed,1524
+m49e43b33,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4115,4118,101,101," * "," - ",killed,1586
+md96b4f1f,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4115,4118,101,101," * "," / ",killed,1539
+m6250ae0b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4115,4118,101,101," * "," ** ",killed,1612
+m4adfa049,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4115,4118,101,101," * "," % ",killed,1629
+mee81a6ce,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4182,4185,102,102," < "," <= ",live,907
+m614adfed,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4182,4185,102,102," < "," >=  ",killed,1725
+m451ea06e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4182,4185,102,102," < "," > ",killed,1789
+m02fa911f,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4182,4185,102,102," < "," != ",killed,1585
+m026f6096,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4182,4185,102,102," < "," == ",killed,1536
+md9d95ed7,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4400,4404,107,107," >= ","  > ",killed,1528
+m0b85dd7d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4400,4404,107,107," >= ","  < ",killed,1736
+mca7ce022,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4400,4404,107,107," >= "," <= ",killed,1526
+mee4ffa8e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4400,4404,107,107," >= "," != ",killed,1814
+m6e4a3e98,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4400,4404,107,107," >= "," == ",killed,1025
+m04a93ac5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4868,4871,117,117," - "," + ",killed,1508
+m904206e1,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4868,4871,117,117," - "," * ",killed,1587
+m143320df,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4868,4871,117,117," - "," / ",killed,1544
+mfb4f59b7,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4868,4871,117,117," - "," ** ",killed,1773
+mc4030d96,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,BOR,4868,4871,117,117," - "," % ",killed,1521
+m5bb1f9a5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CCD,1715,1787,40,40,"constructor() ERC20(""RefundableSaleToken"", ""RFT"") Ownable(msg.sender) {}",,stillborn,581
+mdd85a852,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2452,2466,60,60,msg.value <= 0,true,killed,1513
+m54c1af03,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2452,2466,60,60,msg.value <= 0,false,killed,917
+m22d1fb8e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2502,2521,61,61,msg.value < 1 ether,true,killed,1527
+m763f0ef2,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2502,2521,61,61,msg.value < 1 ether,false,killed,895
+m467f5e79,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2654,2681,65,65,msg.sender == address(this),true,killed,1816
+m5ad849cd,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2654,2681,65,65,msg.sender == address(this),false,killed,1755
+m82ff08f9,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,2906,3553,65,84," else {            uint256 contractTokenBalance = balanceOf(address(this));            if (contractTokenBalance > 0) {                uint256 tokensToTransfer = tokensToBuy > contractTokenBalance ? contractTokenBalance : tokensToBuy;                _transfer(address(this), msg.sender, tokensToTransfer);                tokensToBuy -= tokensToTransfer;            }            if (tokensToBuy > 0) {                if (totalSupply() + tokensToBuy > MAX_SUPPLY) {                    revert ExceedsMaxSupply(totalSupply(), tokensToBuy, MAX_SUPPLY);                }                _mint(msg.sender, tokensToBuy);            }        }",,killed,1828
+m367084e7,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3000,3024,72,72,contractTokenBalance > 0,true,live,986
+m1ea44e95,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3000,3024,72,72,contractTokenBalance > 0,false,killed,1513
+m9b102887,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3296,3311,78,78,tokensToBuy > 0,true,live,911
+m6597c7ed,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3296,3311,78,78,tokensToBuy > 0,false,killed,1944
+m2eb79509,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3335,3375,79,79,totalSupply() + tokensToBuy > MAX_SUPPLY,true,killed,1656
+me36e6733,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,3335,3375,79,79,totalSupply() + tokensToBuy > MAX_SUPPLY,false,killed,1794
+mcdc2af3d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,4161,4193,102,102,address(this).balance < ethToPay,true,killed,1733
+m31069ac9,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,4161,4193,102,102,address(this).balance < ethToPay,false,killed,1656
+m9c7d0524,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,5279,5287,130,130,!success,true,killed,1046
+m66e90cbf,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,CSC,5279,5287,130,130,!success,false,killed,2181
+m56b10780,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EED,4505,4575,110,110,"emit DebugAllowance(msg.sender, allowance(msg.sender, address(this)));","/* emit DebugAllowance(msg.sender, allowance(msg.sender, address(this))); */",live,1250
+m8374cd1c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EED,4584,4637,111,111,"emit DebugBalance(msg.sender, balanceOf(msg.sender));","/* emit DebugBalance(msg.sender, balanceOf(msg.sender)); */",live,1128
+m9994ebd4,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EHC,2776,2849,67,67,"require(totalSupply() + tokensToBuy <= MAX_SUPPLY, ""Exceeds max supply"");","/* require(totalSupply() + tokensToBuy <= MAX_SUPPLY, ""Exceeds max supply""); */",killed,1514
+mceb6bb5c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EHC,4000,4047,98,98,"require(amount > 0, ""Sell amount must be > 0"");","/* require(amount > 0, ""Sell amount must be > 0""); */",killed,1524
+m410ce874,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EHC,4356,4435,107,107,"require(allowance(msg.sender, address(this)) >= amount, ""Incorrect allowance"");","/* require(allowance(msg.sender, address(this)) >= amount, ""Incorrect allowance""); */",killed,1552
+m68943aa0,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,EHC,4986,5026,121,121,"require(success, ""ETH transfer failed"");","/* require(success, ""ETH transfer failed""); */",killed,2064
+m2331dabd,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ETR,4940,4976,120,120,"msg.sender.call{value: ethToPay}("""")","msg.sender.delegatecall("""")",killed,1538
+m35db94bc,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ETR,4940,4976,120,120,"msg.sender.call{value: ethToPay}("""")","msg.sender.staticcall("""")",killed,1560
+m14df49d2,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ETR,5233,5265,129,129,"owner().call{value: balance}("""")","owner().delegatecall("""")",killed,1521
+mefd0a578,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ETR,5233,5265,129,129,"owner().call{value: balance}("""")","owner().staticcall("""")",killed,1852
+m73f647ba,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,2402,2438,59,59,"function buyTokens() public payable ","function buyTokens() external payable ",stillborn,279
+mb7243906,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,3947,3990,97,97,"function sellBack(uint256 amount) external ","function sellBack(uint256 amount) public ",live,909
+m92267d1e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,3947,3990,97,97,"function sellBack(uint256 amount) external ","function sellBack(uint256 amount) internal ",stillborn,479
+m8d24f5c5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,3947,3990,97,97,"function sellBack(uint256 amount) external ","function sellBack(uint256 amount) private ",stillborn,582
+mf1a44e04,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,5113,5155,127,127,"function withdrawETH() external onlyOwner ","function withdrawETH() public onlyOwner ",live,911
+mefad384e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,5113,5155,127,127,"function withdrawETH() external onlyOwner ","function withdrawETH() internal onlyOwner ",stillborn,475
+m4e618b84,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,FVR,5113,5155,127,127,"function withdrawETH() external onlyOwner ","function withdrawETH() private onlyOwner ",stillborn,480
+md18ae643,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,GVR,2452,2461,60,60,msg.value,tx.gasprice,killed,1618
+mb8a079e6,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,GVR,2502,2511,61,61,msg.value,tx.gasprice,killed,1716
+mc5534156,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,GVR,2587,2596,63,63,msg.value,tx.gasprice,killed,2148
+mbef31fa8,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,752,765,17,17,1000000 ether,999999 ether,killed,1738
+m40ae6a28,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,752,765,17,17,1000000 ether,1000001 ether,killed,1621
+md77cc421,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,887,897,20,20,1000 ether,999 ether,killed,1869
+m718d0f49,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,887,897,20,20,1000 ether,1001 ether,killed,2343
+mff08f06b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,1024,1028,23,23,5e14,499999999999999,killed,1809
+m932eed37,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,1024,1028,23,23,5e14,500000000000001,killed,1653
+mc8ba0614,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,2465,2466,60,60,0,1,killed,1091
+m1e076f3c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,2514,2521,61,61,1 ether,0 ether,killed,1146
+m2310689e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,2514,2521,61,61,1 ether,2 ether,killed,1846
+macd42934,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,2624,2631,63,63,1 ether,0 ether,killed,1631
+mec68e7d5,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,2624,2631,63,63,1 ether,2 ether,killed,1821
+mf738ff0c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,3023,3024,72,72,0,1,live,1043
+m1dcf5526,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,3310,3311,78,78,0,1,live,1381
+m470a374e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,4017,4018,98,98,0,1,live,1044
+m7fabb0de,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,4140,4147,101,101,1 ether,0 ether,killed,2194
+m872a4a25,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ILR,4140,4147,101,101,1 ether,2 ether,killed,1860
+m1a4ac6f9,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,ICM,3243,3247,75,75," -= "," =- ",stillborn,603
+ma60bd14c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,PKD,2402,2438,59,59,"function buyTokens() public payable ","function buyTokens() public  ",stillborn,590
+mbf0ae354,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOC,1715,1785,40,40,"constructor() ERC20(""RefundableSaleToken"", ""RFT"") Ownable(msg.sender) ","constructor() Ownable(msg.sender) ERC20(""RefundableSaleToken"", ""RFT"") ",live,1057
+m505293f7,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOD,1715,1785,40,40,"constructor() ERC20(""RefundableSaleToken"", ""RFT"") Ownable(msg.sender) ","constructor()  Ownable(msg.sender) ",stillborn,801
+m1b6c3cbf,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOD,1715,1785,40,40,"constructor() ERC20(""RefundableSaleToken"", ""RFT"") Ownable(msg.sender) ","constructor() ERC20(""RefundableSaleToken"", ""RFT"")  ",stillborn,596
+m39222a73,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOD,5113,5155,127,127,"function withdrawETH() external onlyOwner ","function withdrawETH() external  ",live,1036
+m03c9fe6d,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOI,2402,2438,59,59,"function buyTokens() public payable ","function buyTokens() public payable onlyOwner ",killed,1744
+m9d22e9a1,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,MOI,3947,3990,97,97,"function sellBack(uint256 amount) external ","function sellBack(uint256 amount) external onlyOwner ",killed,1802
+m2d481a47,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,SLR,1735,1756,40,40,"""RefundableSaleToken""","""""",live,1055
+mebf644fd,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,SLR,1758,1763,40,40,"""RFT""","""""",live,1023
+m7e51153c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,1773,1783,40,40,msg.sender,tx.origin,killed,1806
+m8db8aa36,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,2654,2664,65,65,msg.sender,tx.origin,killed,2356
+m9aa7315b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,3185,3195,74,74,msg.sender,tx.origin,killed,1781
+m5571b13b,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,3504,3514,82,82,msg.sender,tx.origin,killed,1936
+mb26ae428,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4374,4384,107,107,msg.sender,tx.origin,killed,1698
+m7903ce05,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4525,4535,110,110,msg.sender,tx.origin,live,1514
+m0e3880fa,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4547,4557,110,110,msg.sender,tx.origin,live,1219
+m3a40570a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4602,4612,111,111,msg.sender,tx.origin,live,1258
+ma86e3449,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4624,4634,111,111,msg.sender,tx.origin,live,1177
+m90d25f7e,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4714,4724,114,114,msg.sender,tx.origin,killed,2736
+m80fcc361,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4805,4815,117,117,msg.sender,tx.origin,killed,1934
+m26348c3c,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4842,4852,117,117,msg.sender,tx.origin,killed,2119
+m8fa9ff75,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,TOR,4940,4950,120,120,msg.sender,tx.origin,killed,2083
+m34264408,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,UORD,5279,5286,130,130,!succes," succes",killed,1545
+m9f48d0b3,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VUR,752,765,17,17,1000000 ether,1000000 wei,killed,1734
+m1c8bbdbc,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VUR,887,897,20,20,1000 ether,1000 wei,killed,2084
+m7718c3df,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VUR,2514,2521,61,61,1 ether,1 wei,killed,1043
+m88376fb1,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VUR,2624,2631,63,63,1 ether,1 wei,killed,1739
+mb7ec529a,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VUR,4140,4147,101,101,1 ether,1 wei,killed,1725
+m07f60554,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,715,765,17,17,uint256 public constant MAX_SUPPLY = 1000000 ether,uint256 internal constant MAX_SUPPLY = 1000000 ether,stillborn,717
+m1d2e4352,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,715,765,17,17,uint256 public constant MAX_SUPPLY = 1000000 ether,uint256 private constant MAX_SUPPLY = 1000000 ether,stillborn,702
+mf6f38a65,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,840,897,20,20,uint256 public constant TOKENS_PER_ETH_PRICE = 1000 ether,uint256 internal constant TOKENS_PER_ETH_PRICE = 1000 ether,stillborn,605
+m73d8fd59,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,840,897,20,20,uint256 public constant TOKENS_PER_ETH_PRICE = 1000 ether,uint256 private constant TOKENS_PER_ETH_PRICE = 1000 ether,stillborn,597
+mebbd6f47,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,979,1028,23,23,uint256 public constant WEI_PER_TOKEN_SELL = 5e14,uint256 internal constant WEI_PER_TOKEN_SELL = 5e14,live,1341
+m003040fc,/root/folder/metana-bootcamp/module-1/src/TokenSaleRefund.sol,VVR,979,1028,23,23,uint256 public constant WEI_PER_TOKEN_SELL = 5e14,uint256 private constant WEI_PER_TOKEN_SELL = 5e14,live,1036
