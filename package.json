@@ -1,0 +1,26 @@
+{
+  "name": "erc20-token-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDiner/erc20-token-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDiner/erc20-token-contracts/issues"
+  },
+  "homepage": "https://github.com/DevDiner/erc20-token-contracts#readme",
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
