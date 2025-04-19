@@ -4,7 +4,7 @@ out = "out"
 test= "test"
 script = "script"
 libs = ["lib"]
-remappings = ['@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/']
+remappings = ['@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/', '@forge-std/=lib/forge-std/', ]
 
 ffi= false
 fuzz_runs = 256
