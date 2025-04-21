@@ -10,6 +10,12 @@ ffi= false
 fuzz_runs = 256
 verbosity = 3           # Test verbosity level (1-4)
 
+[rpc_endpoints]
+sepolia = "${SEPOLIA_RPC_URL}"
+
+[etherscan]
+sepolia = { key = "${ETHERSCAN_API_KEY}" }
+
 
 # Wallet configuration: Use PRIVATE_KEY from environment variable
 # [wallets]
