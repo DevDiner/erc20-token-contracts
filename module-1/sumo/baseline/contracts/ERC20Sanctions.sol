@@ -13,7 +13,7 @@ contract ERC20Sanctions is ERC20, Ownable {
     // Mapping of blacklisted addresses => true if sanctioned
     mapping(address => bool) private blacklisted;
 
-    constructor() ERC20("SanctionedToken", "SNT") Ownable(msg.sender) {}
+    constructor() ERC20("SanctionedToken", "SNT") {}
 
     /**
      * @dev Add `account` to the blacklist. Only the owner can call this.
@@ -36,7 +36,7 @@ contract ERC20Sanctions is ERC20, Ownable {
         return blacklisted[account];
     }
 
-    function _update(address from, address to, uint256 value)
+    function _beforeTokenTransfer(address from, address to, uint256 amount)
         internal
         override
     {
@@ -50,6 +50,6 @@ contract ERC20Sanctions is ERC20, Ownable {
         }
 
         // Proceed with normal transfer/mint/burn logic
-        super._update(from, to, value);
+        super._beforeTokenTransfer(from, to, amount);
     }
 }
