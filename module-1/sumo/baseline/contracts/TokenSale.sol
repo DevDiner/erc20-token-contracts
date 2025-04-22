@@ -29,7 +29,7 @@ contract TokenSale is ERC20, Ownable {
     // @dev Thrown if the contract fails to send ETH to the owner.
     error WithdrawFailed();
 
-    constructor() ERC20("SaleToken", "SLT") Ownable(msg.sender) {}
+    constructor() ERC20("SaleToken", "SLT"){}
 
     /**
      * @dev Fallback to buy tokens on receiving ETH

@@ -37,7 +37,7 @@ contract TokenSaleRefundERC20 is ERC20, Ownable {
      * @dev Contract constructor initializes the token with a name and symbol.
      * The deployer is set as the owner.
      */
-    constructor() ERC20("RefundableSaleToken", "RFT") Ownable(msg.sender) {}
+    constructor() ERC20("RefundableSaleToken", "RFT"){}
 
     /**
      * @dev Allows users to buy tokens by sending ETH directly to the contract.

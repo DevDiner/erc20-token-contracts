@@ -12,7 +12,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
  *      - Force transfers between addresses
  */
 contract ERC20GodMode is ERC20, Ownable {
-    constructor() ERC20("GodModeToken", "GMT") Ownable(msg.sender) {
+    constructor() ERC20("GodModeToken", "GMT") {
     }
 
     function mintTokensToAddress(address recipient, uint256 amount)
